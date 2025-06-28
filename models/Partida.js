@@ -12,7 +12,7 @@ const Partida = sequelize.define('Partida', {
     defaultValue: true
   }
 }, {
-  tableName: 'partidas',
+  tableName: 'partidasGame',
   timestamps: false 
 });
 
